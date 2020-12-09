@@ -1,0 +1,85 @@
+{
+    "b": {
+        "heading":"Buzzwords @ AppDirect",
+        "items": [
+            "Multidimensional _____",
+            "PMA",
+            "Phased Approach",
+            "Dogfooding",
+            "Scrappy",
+            "Merchants",
+            "Core _____",
+            "App_______",
+            "Customer",
+            "Hi-Po",
+            "ABM"
+        ]
+    },
+    "i":{
+        "heading":"Insanity of 2020",
+        "items": [
+            "Australian Wildfires",
+            "Murder Hornets",
+            "Kanye West runs for president",
+            "Space Force",
+            "Yeast shortages/that crazy bread lady",
+            "Iowa Hurricane",
+            "Nuclear Cannibal Ants escape from Russian bunker",
+            "Canada closes US border (kind of)",
+            "US Election Month",
+            "TIGER KING",
+            "Disinfecting groceries",
+            "Black Mirror takes the year off because 'the world is too bleak right now'",
+            "'Please scream inside your heart'",
+            "Global Pandemic: COVID-19",
+            "Weird orange smoke/fire sky in San Francisco"
+        ]
+    },
+    "n": {
+        "heading":"New Year's Plans",
+        "items": [
+            "Go to bed early",
+            "Put the thundershirt on the dog/cat/fish",
+            "not remember the evening ;)",
+            "manifest positive energy for 2021 by burning things from 2020",
+            "Cook and eat a fancy dinner",
+            "Play Catan",
+            "Binge (watch and/or eat)",
+            "Set off fireworks",
+            "Stay safe",
+            "Work",
+            "Drink"
+        ]
+    },
+    "g":{
+        "heading":"Gifts for the Holidays",
+        "items": [
+            "One of those wine glasses that holds an entire bottle of wine",
+            "Stretchpants",
+            "Toilet Paper ... while it's in stock",
+            "gift cards to local small businesses",
+            "A new zoom background",
+            "A NEW CAR",
+            "A Marketing off-site",
+            "A new office chair",
+            "a mask you can wear on Zoom that shows you engaged in a meeting when really you're napping ",
+            "15 minutes of peace and quiet",
+            "Unused airline miles"
+        ]
+    },
+    "o":{
+        "heading":"Office Watercooler",
+        "items": [
+            "Did you watch Dash and Lily yet?",
+            "Did you hear that _____ restaurant closed?",
+            "TIGER KING",
+            "Dan and Nic were in the same meeting",
+            "AppSmart was originally going to be called AppDirect2",
+            "Great British Bake Off",
+            "Let me tell you about an ambitious bread project I started",
+            "I hope that Russian vaccine pans out",
+            "Not asking people what they did over the weekend because you know it was nothing",
+            "Did you see the Holiday Decoration that Crate & Barrel has for sale? "
+        ]
+    }
+}

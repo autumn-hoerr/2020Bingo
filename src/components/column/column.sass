@@ -1,0 +1,60 @@
+.c-colHeader
+    grid-row: 1 / 1
+    border-bottom: 5px solid #1F2326
+    border-right: 5px solid #1F2326
+    border-left: 5px solid transparent
+    border-top: 5px solid transparent
+    padding: 10px 30px
+    text-align: center
+    background: rgba(255, 255, 255, 0.5)
+
+.c-colHeader__subhead
+    margin: 25px 0 5px 0
+
+.c-colHeader__lead
+    font-weight: 800
+    font-size: 48px
+    margin: 10px 0
+    color: #fff
+    position: relative
+    z-index: 100
+    &:after
+        content: ""
+        display: block
+        position: absolute
+        z-index: -1
+        left: calc(50% - 40px)
+        top: calc(50% - 40px)
+        width: 80px
+        height: 80px
+        border-radius: 40px
+        background-color: red
+
+.c-colHeader__lead--0
+    transform: rotate(-10deg)
+    &::after
+        background-image: radial-gradient(#ffabaa, #cc2623)
+
+.c-colHeader__lead--1
+    transform: rotate(10deg)
+    &::after
+        background-image: radial-gradient(#c6de9d, #72c24f)
+
+.c-colHeader__lead--2
+    transform: rotate(-15deg)
+    &::after
+        background-image: radial-gradient(#ea57a6, #d10f90)
+
+.c-colHeader__lead--3
+    transform: rotate(15deg)
+    &::after
+        background-image: radial-gradient(#1cb8ea, #009ce3)
+
+.c-colHeader__lead--4
+    transform: rotate(-7deg)
+    &::after
+        background-image: radial-gradient(#f2787d, #e12053)
+
+.c-colItem
+    padding: 10px
+    text-align: center
